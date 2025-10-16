@@ -1,6 +1,6 @@
 [
   {
     "name": "webapp",
-    "imageUri": "ACCOUNT_ID.dkr.ecr.us-east-1.amazonaws.com/devops-workshop-app"
+    "imageUri": "698185146207.dkr.ecr.us-east-1.amazonaws.com/devops-workshop-app"
   }
 ]
